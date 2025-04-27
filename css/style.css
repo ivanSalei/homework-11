@@ -374,6 +374,12 @@ body {
   right: 90px;
 }
 
+.cabins:hover::after{
+
+  transform: scale(1.5);
+  tra
+}
+
 .door {
   width: 250px;
   height: 200px;
